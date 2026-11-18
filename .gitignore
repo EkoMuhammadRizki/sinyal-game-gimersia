@@ -1,0 +1,9 @@
+dist/
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+
+# Dokumen referensi internal (panduan panitia, naskah)
+Story-Buku Panduan-Laporan Progress/
