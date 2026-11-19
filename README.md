@@ -105,9 +105,8 @@ Batas submission: **Minggu, 29 November 2026, 23.59 WIB**.
 
 | Peran | Nama |
 |---|---|
-| Game Designer | _isi_ |
-| Game Programmer | _isi_ |
-| Narrative Designer | _isi_ |
-| UI/UX Designer | _isi_ |
-| 2D Artist & Sound Designer | _isi_ |
-| Producer | _isi_ |
+| Game Designer | Nofrendy |
+| Game Programmer | Eko Muhammad Rizki |
+| Narrative Designer | Asep Sulaeman |
+| 2D Artist & Sound Designer | Diki |
+| Producer | Dena Maulana |
